@@ -1,4 +1,4 @@
-# libmenu
+# cmenu
 Универсальное меню для CLI-программ на Си.
 
 * Ветка lecture/real — результат разработки по итогам лекции (см. [конспект и ссылку на видео](https://github.com/olgapavlova/lectures/tree/main/menu_vargs)).
